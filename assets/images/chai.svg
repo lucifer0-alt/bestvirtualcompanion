@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dbeafe"/><stop offset="1" stop-color="#ccfbf1"/></linearGradient></defs>
+<rect width="1200" height="675" fill="url(#g)"/>
+<text x="50%" y="47%" font-size="72" text-anchor="middle" fill="#0f172a" font-family="Arial, sans-serif" font-weight="700">Chai</text>
+<text x="50%" y="58%" font-size="34" text-anchor="middle" fill="#334155" font-family="Arial, sans-serif">AI Companion Review Preview</text>
+</svg>
